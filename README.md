@@ -1,4 +1,4 @@
-# Indeksin-tehokkuus
+# Indeksin-tehokkuus, Index performance
 
 Tehtävän anto:
 
